@@ -46,10 +46,6 @@ Tested multiple regression models:
 - XGBoost Regressor 
 ---
 
-## **Project Structure**
-
-
-
 ### **2. Install Dependencies**
 ```bash
 pip install -r requirements.txt
@@ -91,12 +87,7 @@ pip install -r requirements.txt
   Random Forest Regressor(Acuracy : 64.8 )
   XGBoost Regressor (Acuracy : 52.9 )
 ---
-
-## **Screenshot from the deployent** 
-    <img width="2546" height="1474" alt="image" src="https://github.com/user-attachments/assets/9970507c-08a1-42be-bbca-f12231619a4c" />
-
-)
-
+   
 
 ## **Future Improvements**
 -  Add seasonality features (holidays, weekends)
